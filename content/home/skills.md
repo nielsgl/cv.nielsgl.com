@@ -18,13 +18,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "95%"
+  # description = "95%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  #description = "100%"  
   
 [[feature]]
   icon = "brain"
