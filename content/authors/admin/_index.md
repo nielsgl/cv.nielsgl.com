@@ -22,20 +22,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep / Machine Learning
+- Numerical Linear Algebra
+- Genomics &amp; Genetics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computational and Mathematical Engineering
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: on leave
+  - course: MSc in Computational and Mathematical Engineering
+    institution: Stanford University
+    year: 2014
+  - course: MSc in Computer Science
+    institution: Delft University of Technology
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,15 +46,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/nielsgl
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nielsgl
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/nielsgl
+- icon: facebook
+  icon_pack: fab
+  link: https://facebook.com/nielsgl
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
