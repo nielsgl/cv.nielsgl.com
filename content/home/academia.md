@@ -46,7 +46,7 @@ date_format = "2006"
   date_end = "2011-06-01"
   description = """Master Thesis: _Cortical Parcellation using PageRank Clustering and the Small-Worldness of ADHD_.
 
-  Supervisors: _Prof. M.G. Gerritsen_ (Stanford University) and _Prof. L.J.M. Rothkrantz_ (Delft University of Technology).
+  _Supervisors:_ Prof. M.G. Gerritsen (Stanford University) and Prof. L.J.M. Rothkrantz (Delft University of Technology).
   """
 
 [[experience]]
