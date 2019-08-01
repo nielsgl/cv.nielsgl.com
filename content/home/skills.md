@@ -24,12 +24,18 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  #description = "100%"  
+  description = "Awesome"  
   
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "90%"
+  description = "numpy, scipy, pandas, scikit-learn"
+
+#[[feature]]
+#  icon = "brain"
+#  icon_pack = "fas"
+#  name = "Machine Learning"
+#  description = "numpy, scipy, pandas, scikit-learn"
 
 +++
