@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Chief Data Officer"
+  company = "XLabs.ai"
+  company_url = "https://xlabs.ai"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2018-12-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +33,23 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Chief Technology Officer"
+  company = "PostPlanner"
+  company_url = "https://postplanner.com"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2016-06-01"
+  date_end = "2018-11-30"
+  description = """Heading all technology efforts, leading and managing the front-end and backend teams.
+  Building recommendation algorithms used by more than 250,000 users.
+  Responsible for architecting and building the cloud infrastructure, migrating all infrastructure from Digital Ocean to AWS."""
+
+[[experience]]
+  title = "Chief Technology Officer"
+  company = "Paystik / Evergive"
+  # company_url = "https://www.crunchbase.com/organization/evergive"
+  location = "California"
+  date_start = "2016-06-01"
+  date_end = "2018-11-30"
+  description = """[Acquired by OneParish]"""
 
 +++
