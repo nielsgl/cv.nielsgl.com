@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and programmable matter. Foo, bar.
 
 interests:
 - Artificial Intelligence
@@ -77,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Niels van Galen Last something with artificial intelligence. His research interests include distributed robotics, mobile computing and programmable matter.
+Niels van Galen Last maybe likes artificial intelligence. His research interests include distributed robotics, mobile computing and programmable matter.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
