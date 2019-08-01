@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Chief Technology Officer"
   company = "Paystik / Evergive"
-  # company_url = "https://www.crunchbase.com/organization/evergive"
+  company_url = "https://www.crunchbase.com/organization/evergive"
   location = "California"
   date_start = "2016-06-01"
   date_end = "2018-11-30"
