@@ -11,7 +11,7 @@ subtitle = ""
 # enable math
 # https://academic-demo.netlify.com/post/writing-technical-content/
 
-markup = mmark
+markup = "mmark"
 
 # Showcase personal skills or business features.
 # 
@@ -35,7 +35,7 @@ markup = mmark
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Cloud Development"
-  description = "AWS, $$\lambda$$, Google, NodeJS"
+  description = "AWS, GraphQL, NodeJS"
 
 [[feature]]
   icon = "chart-line"
@@ -47,7 +47,7 @@ markup = mmark
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "numpy, scipy, pandas, scikit-learn"
+  description = "NumPy, SciPy, pandas, Scikit-learn"
 
 #[[feature]]
 #  icon = "brain"
