@@ -77,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Niels van Galen Last maybe likes artificial intelligence. His research interests include distributed robotics, mobile computing and programmable matter.
+Niels van Galen Last currently works as Chief Data Officer at [XLabs.ai](https://xlabs.ai), working on all things technical. He is building the infrastructure for solving machine learning problems in the cloud. He also works on applying machine learning to better understand problems in the areas of computational genomics and genetics. He specializes in developing statistical and computational machine learning methods for large-scale data. Previously he worked as Chief Technology Officer at Post Planner and prior to that as CTO at Paystik/Evergive (acquired by OneParish).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+---
