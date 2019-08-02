@@ -34,8 +34,8 @@ markup = "mmark"
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
-  name = "AWSt"
-  description = "Lambda, GraphQL, K8s"
+  name = "Amazon Cloud"
+  description = "Lambda, GraphQL, K8s, SageMaker"
 
 [[feature]]
   icon = "chart-line"
