@@ -58,13 +58,13 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "niels@protonmail.com"
+email = "nielsgl@protonmail.com"
 # phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+# address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 9:30 to 14:00"""
+#office_hours = """Monday 10:00 to 13:00<br>
+#                  Wednesday 9:30 to 14:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -147,7 +147,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
+  publication_view = 4
   talk_view = 2
 
 # Comments.
