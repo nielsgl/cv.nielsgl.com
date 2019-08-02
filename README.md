@@ -1,5 +1,8 @@
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ddb1fdc6-f08e-45e8-b2a0-6fefb4bd078e/deploy-status)](https://app.netlify.com/sites/dazzling-bose-e38b92/deploys)
+
+
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
 **Academic Kickstart** provides a minimal template to kickstart your new website.
