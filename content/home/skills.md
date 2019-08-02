@@ -18,7 +18,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "numpy, scipy, pandas, scikit-learn"
+  description = "TensorFlow, Keras, Spark"
 
 [[feature]]
   icon = "react"
@@ -42,7 +42,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  # description = "95%"
+  description = "numpy, scipy, pandas, scikit-learn"
 
 #[[feature]]
 #  icon = "brain"
