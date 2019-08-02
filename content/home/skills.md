@@ -29,13 +29,13 @@ markup = "mmark"
   icon = "react"
   icon_pack = "fab"
   name = "Web Development"
-  description = "React, Django"
+  description = "React, NodeJS, Django"
 
 [[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Cloud Development"
-  description = "AWS, GraphQL, NodeJS"
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWSt"
+  description = "Lambda, GraphQL, K8s"
 
 [[feature]]
   icon = "chart-line"
