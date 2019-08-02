@@ -8,6 +8,11 @@ weight = 30  # Order that this section will appear.
 title = "Skills"
 subtitle = ""
 
+# enable math
+# https://academic-demo.netlify.com/post/writing-technical-content/
+
+markup = mmark
+
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
@@ -30,7 +35,7 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Cloud Development"
-  description = "AWS, Google, NodeJS"
+  description = "AWS, $$\lambda$$, Google, NodeJS"
 
 [[feature]]
   icon = "chart-line"
