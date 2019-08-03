@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = "Niels van Galen Last &copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-145045312-1"
 
 ############################
 ## Advanced options below ##
