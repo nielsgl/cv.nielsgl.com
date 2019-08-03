@@ -4,6 +4,8 @@ summary: Generating High Quality Fractals and Learning Fractals with TensorFlow.
 tags:
 - Deep Learning
 date: "2019-08-10T00:00:00Z"
+draft: true
+#authors: [admin]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
