@@ -40,14 +40,14 @@ markup = "mmark"
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Math"
-  description = "Numerical Linear Algebra, Statistics"  
+  name = "Mathematics"
+  description = "Numerical Linear Algebra, Statistics, Graph Theory"  
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "NumPy, SciPy, pandas, Scikit-learn"
+  description = "NumPy, SciPy, pandas, Scikit-Learn"
 
 #[[feature]]
 #  icon = "brain"
