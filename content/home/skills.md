@@ -23,7 +23,7 @@ markup = "mmark"
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "TensorFlow, Keras, Spark"
+  description = "TensorFlow, Keras, Spark, Recommendation Algorithms"
 
 [[feature]]
   icon = "react"
