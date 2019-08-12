@@ -44,12 +44,27 @@ date_format = "Jan 2006"
   Responsible for architecting and building the cloud infrastructure, migrating all infrastructure from Digital Ocean to AWS."""
 
 [[experience]]
+  title = "Senior Software Engineer"
+  company = "Scal.io"
+  company_url = "https://scal.io"
+  location = "California"
+  date_start = "2016-06-01"
+  date_end = "2015-10-30"
+  description = """Heading all technology efforts, leading and managing the front-end and backend teams.
+  Building recommendation algorithms used by more than 250,000 users.
+  Responsible for architecting and building the cloud infrastructure, migrating all infrastructure from Digital Ocean to AWS."""
+
+[[experience]]
   title = "Chief Technology Officer"
   company = "Paystik / Evergive"
   company_url = "https://www.crunchbase.com/organization/evergive"
   location = "California"
-  date_start = "2016-06-01"
-  date_end = "2018-11-30"
-  description = """[Acquired by OneParish]"""
+  date_start = "2013-05-01"
+  date_end = "2015-10-30"
+  description = """[Acquired by OneParish]
+  Led a team of engineers and spearheading the product development of the Android, iOS and 
+web application.
+  Developed a fully scalable and distributed backend infrastructure from the ground up.
+  Designed and implemented analytical tools to provide insights for the internal leadership team and external partners."""
 
 +++
